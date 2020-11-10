@@ -1,2 +1,6 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/mailerlite/"
+versions:
+  # Latest version
+  - sha: 1ffcc350803950ea7616f56dc4bfccced387bb55
+    changeNotes: Initial release.
